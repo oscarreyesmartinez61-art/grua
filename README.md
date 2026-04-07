@@ -1,1 +1,2 @@
 # grua
+Este proyecto consiste en el diseño e implementación de una grúa controlada electrónicamente mediante una tarjeta ESP32 programada en MicroPython. El sistema utiliza dos potenciómetros para controlar manualmente dos servomotores, permitiendo mover la base y el brazo de la grúa. Además, incorpora un modo automático con secuencias predefinidas, un modo de retorno a posición inicial, indicadores LED y buzzer para señalización del estado operativo.
